@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "7c7ba41eee9c8e3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "83f39a31aa52e28d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a2fd420b45238bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "微服务cloud整体聚合Maven父工程Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3bd21b806724a99",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d0eef02ae78a038",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32f3eccfc30dd552",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0526c3ad85673785",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "123ac9d3a6a55a47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b686c4cb27cf953",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0cf0e57fb4f266d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6693d61b3f932147",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "微服务cloud整体聚合Maven父工程Project.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d24e675ea7666049",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "微服务cloud整体聚合Maven父工程Project.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3a4daaf6cd23aed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dbcb77500adb2e91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "微服务cloud整体聚合Maven父工程Project.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "5a2fd420b45238bf",
+  "lastOpenFiles": []
+}
