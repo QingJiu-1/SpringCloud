@@ -143,6 +143,11 @@
   },
   "active": "32f3eccfc30dd552",
   "lastOpenFiles": [
+    "项目实战.md",
+    "微服务cloud整体聚合Maven父工程Project.md",
+    "实例图/2024-06-23-1557.excalidraw",
+    "实例图",
+    "springcloud组件停更升级替换.md",
     "image/项目创建.png",
     "image/过滤.png",
     "image/跳过测试.png",
@@ -153,12 +158,6 @@
     "image/字符编码.png",
     "image/创建工程.png",
     "image/一键生成.png",
-    "image/Swagger3测试结果展示.png",
-    "image",
-    "项目实战.md",
-    "微服务cloud整体聚合Maven父工程Project.md",
-    "实例图/2024-06-23-1557.excalidraw",
-    "实例图",
-    "springcloud组件停更升级替换.md"
+    "image"
   ]
 }
