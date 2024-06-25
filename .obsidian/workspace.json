@@ -11,8 +11,12 @@
             "id": "5a2fd420b45238bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "项目实战.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "项目实战.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "项目实战.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "微服务cloud整体聚合Maven父工程Project.md"
+                "file": "项目实战.md"
               }
             }
           }
@@ -141,13 +147,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32f3eccfc30dd552",
+  "active": "5a2fd420b45238bf",
   "lastOpenFiles": [
-    "项目实战.md",
+    "springcloud组件停更升级替换.md",
     "微服务cloud整体聚合Maven父工程Project.md",
+    "项目实战.md",
     "实例图/2024-06-23-1557.excalidraw",
     "实例图",
-    "springcloud组件停更升级替换.md",
     "image/项目创建.png",
     "image/过滤.png",
     "image/跳过测试.png",
