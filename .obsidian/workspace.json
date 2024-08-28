@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "83f39a31aa52e28d",
+        "id": "eaf027621b00c2c4",
         "type": "tabs",
         "children": [
           {
-            "id": "5a2fd420b45238bf",
+            "id": "4ceb450ec384ac22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "项目实战.md",
-                "mode": "source",
-                "source": false
+                "file": "实例图/2024-06-23-1557.excalidraw"
               }
             }
           }
@@ -38,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 339.5
   },
   "right": {
     "id": "4b686c4cb27cf953",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目实战.md",
+                "file": "实例图/2024-06-23-1557.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目实战.md",
+                "file": "实例图/2024-06-23-1557.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,22 +116,13 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "dbcb77500adb2e91",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "项目实战.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 386.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -144,26 +133,40 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5a2fd420b45238bf",
+  "active": "4ceb450ec384ac22",
   "lastOpenFiles": [
-    "springcloud组件停更升级替换.md",
-    "微服务cloud整体聚合Maven父工程Project.md",
+    "image/Pasted image 20240709170402.png",
+    "image/无标题-1.png",
+    "image/Pasted image 20240702234516.png",
+    "image/无标题.png",
+    "image/LoadBalancer 通过Counsul轮询其他服务提供者.png",
+    "image/官网说明.png",
+    "image/cloud-payment-service注册.png",
+    "image/order删除支付订单.png",
+    "image/order根据id查询.png",
+    "image/getForObject方法.png",
+    "image/消费者订单80调用支付8001.png",
+    "OpenFeign服务接口调用.md",
+    "LoadBalancer负载均衡服务调用.md",
+    "Consul服务注册与发现.md",
     "项目实战.md",
+    "微服务cloud整体聚合Maven父工程Project.md",
+    "springcloud组件停更升级替换.md",
+    "CircuitBreaker断路器.md",
+    "SpringCloud Alibaba简介.md",
+    "SpringCloud Alibaba Nacos服务注册和配置中心.md",
+    "Gateway新一代网关.md",
+    "Sleuth(Micrometer)+ZipKin分布式链路追踪.md",
+    "image/feign流程简图.png.crswap",
+    "image/问题介绍.png.crswap",
+    "graphic.url",
+    "image/消费者订单80调用支付8001.png.crswap",
     "实例图/2024-06-23-1557.excalidraw",
     "实例图",
-    "image/项目创建.png",
-    "image/过滤.png",
-    "image/跳过测试.png",
-    "image/编译版本.png",
-    "image/父工程和子工程.png",
-    "image/注解生效.png",
-    "image/总父工程名字.png",
-    "image/字符编码.png",
-    "image/创建工程.png",
-    "image/一键生成.png",
     "image"
   ]
 }
